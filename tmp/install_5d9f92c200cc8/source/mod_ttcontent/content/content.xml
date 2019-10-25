@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_id>About Us</menu_item_id>
+      <menu_item_articlename>About Us</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Properties</menu_item_title>
+      <menu_item_path>properties</menu_item_path>
+      <menu_item_id>Properties</menu_item_id>
+      <menu_item_articlename>Properties</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>properties</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Agents</menu_item_title>
+      <menu_item_path>agents</menu_item_path>
+      <menu_item_id>Agents</menu_item_id>
+      <menu_item_articlename>Agents</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>agents</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>0</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Sell Your Property At Best Price WIth Us!</span></p><p style="margin:40px 0px 5px 0px;text-align:Center;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Primis cubilia neque mi sodales mauris vitae nec justo nonummy diam sociis molestie nulla tempor montes nulla vulputate tincidunt adipi scing donec nibh vestibulum malesuada curae;.Elit sed diam quisque ultrices dictum. Sagittis orci quisque taciti in leo torquent Netus nisl quam. Semper. Nibh facilisi parturient semper duis ipsum velit eleifend ultricies laoreet est facilisi vivamus felis diam fermentum at litora dolor. Quisque odio lorem.</span></p><p style="margin:30px 0px 5px 0px;text-align:Center;line-height:24px;"><span><a href="<?php echo get_url('#');?>" target="_self" class="btn btn-lg btn-default">Contact Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">What We Do</span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Sagittis orci quisque taciti in leo torquent Netus nisl quam. Semper. Nibh facilisi parturient semper duis ipsum velit eleifend ultricies laoreet est facilisi vivamus felis diam fermentum at litora dolor. Quisque odio lorem.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:50px;max-width:50px;" src="<?php echo $template_path; ?>/images/101.png" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;">Legal Consultants</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Leo litora eros taciti fringilla ornare. Id venenatis praesent posuere ullam corper condimentum arcu laoreet magna feugiat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:50px;max-width:50px;" src="<?php echo $template_path; ?>/images/102.png" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;">Insurance Brokers</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Per sed platea suspendisse tincid untllicitudin porta nisl lobortis mae cenas praesent diam gravida tortor. Class suscipit .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:50px;max-width:50px;" src="<?php echo $template_path; ?>/images/103.png" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;">Property Management </span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Turpis porta tellus egestas netus, torquent justo placerat pharetra magnis potenti suspendisse est vivamus vestibulum.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:50px;max-width:50px;" src="<?php echo $template_path; ?>/images/104.png" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;">Construction Services</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(131,131,131,1);">Netus nisl quam emper. Nibhfac ilisi parturient semper duis ipsu m velit eleifend ultricies laoreet estfacilisi vivamus euismod.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Latest Properties </span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Sagittis orci quisque taciti in leo torquent Netus nisl quam. Semper. Nibh facilisi parturient semper duis ipsum velit eleifend ultricies laoreet est facilisi vivamus felis diam fermentum at litora dolor. Quisque odio lorem.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/105.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Trenance Cottage</span></p><p style="text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">5 BedRoom | 5 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Lacinia vestibulum consequat nulla pede aen ean sum lobortis nunc blandit etiam fames. Nonummy netus hac Id odio ipsum aptent vehicula eleifend.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/106.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Palm Beach</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">4 BedRoom | 5 Bathroom | 1 Garage</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Elementum magna bibendum et ligula laoreet nostra leo orci faucibus dictumst proin. Nam aptent luctus rhoncus Platea. Pellentesque at tristique torquent.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/107.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Williams Villa</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">7 BedRoom | 8 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Libero magnis penatibus parturient condiment ulibero feugiat. Bibendum proin id incut. Accum san primis odio. Ante orci primis nonum my atoque commodo.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/108.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Colonial Cottage</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">7 BedRoom | 8 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Risus Quisque Commodo faucibus augue netus facilisi molestie. Condimentum ullamcorper convallis ligula. Erat enim luctus morbi maecenas ornaresd.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column25">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/109.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Victorian Apartment</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">8 Storeys |&nbsp;&nbsp;3 BedRoom | 2 Bathroom</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Tincidunt vestibulum nunc porttitor sapienacc umsan conubia eleifend. Nibh eu nibh nuncnam adipiscing Hac parturient convallis a nisl dolor hymenaeos pulvinar.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column26">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/110.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Downtown Apartment</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">4 Storey | 2 BedRoom | 1 Bathroom</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Lacinia vestibulum consequat nulla pede aenean ipsum lobortis nunc blandit etiam fames. Nonummy netus hac Id odio ipsum aptent vehicula eleifend.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(255,255,255,1);">Let's have a meeting if you are looking for&nbsp;&nbsp;construction service since we also offer construction services for our clients. </span></p><p style="margin:40px 0px 5px 0px;text-align:Center;"><span><a href="<?php echo get_url('#');?>" target="_self" class="btn btn-lg btn-default">More Details</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Our Agents</span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Dictumst bibendum vivamus est pellentesque laoreet lobortis dictum tempor semper at hac taciti facilisis penatibus nibh, praesent tincidunt dictumst. Curabitur ligula quisque nibh velit molestie.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/111.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Antony Iglesias</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column42">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/112.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Rust Cohle</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column43">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/113.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Tilvar Claudiu</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column44">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/114.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Markus Doe</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_header_id>About Us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">About Modern Estate</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Dapibus elit etiam consequat viverra mus, placerat mauris temp or, iaculis leo malesuada viverra molestie volutpat vivamus pellentesque ultrices ridiculus mollis.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Tincidunt vestibulum nunc porttitor sapien accumsan conubia eleifend. Nibh eu nibh nunc, nam adipiscing Hac parturient convallis a nisl dolor ornare odio hyme naeos vitae enim pulvinar. Tincidunt dapibus tempus metus nullam velit aenean. Tempor. Nam, malesuada mi dapibus pellentesque. Natoque dui vehicula. Nisl ornare duis nullam phasellus est facilisis sodales augue class dictum eget vitae. Risus Quisque Commodo faucibus augue netus facilisi molestie. Condimentum ullamcorper convallis ligula. Erat enim luctus morbi maecenas.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:397px;max-width:600px;" src="<?php echo $template_path; ?>/images/118.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Titillium Web','Arial';font-size:2.4em;">We Are The Best In This Field</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Quisque nec est euismod, egestas lorem nec, volutpat nunc. Phasellus neque lectus, convallis non consectetur non, molestie ac enim. Suspendisse et tincidunt urna.</span></p><p style="margin:20px 0px 5px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial Black';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Maecenas volutpat, diam enim sagittis quam, id fermentum nibh volutpat, accumsan purus.Etiam sit amet fringilla lacus. Pellentesque suscipit ante at pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. Donec vel ultricies purus.Etiam fringilla feugiat commodo habitant curabitur pulvinar imperdiet sociis arcu luctus lorem maecenas nisi tellus pellentesque. Duis lacinia metus vivamus orci magna montes imperdiet. Facilisi sociosqu. Morbi dui erat turpis vulputate nisi mi pretium felis accumsan.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0px 0px 0px 0px;text-align:Center;line-height:22px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 40px 0px;"><span><img class="ttr_uniform" style="max-height:125px;max-width:125px;" src="<?php echo $template_path; ?>/images/119.jpg" /></span></span><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Sagittis vitae amet auctor fusce taciti varius sodales ultricies facilisis donec quam laoreet condimentum quam congue nonummy potenti eleifend. Donec dui nascetur suscipit. Ligula dictumst nisl vulputate porttitor lobortis.</span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Titillium Web','Arial';font-size:1.333em;color:rgba(53,53,53,1);">Martoa Silva </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_header_id>Contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Get In Touch With Us.</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Posuere mus risus amet Fames. Quis dictum donec natoque. Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Tellus felis vel ullamcorper molestie enim vel Libero rutrum nibh bibendum nascetur libero netus vivamus conubia. Habitasse euismod, pede nascetur euismod hendrerit lacus ac. Eleifend. Condimentum nec rhoncus vulputate tellus curabitur taciti odio leo imperdiet arcu eros mollis senectus. Lacinia augue.Posuere aptent sodales aptent turpis hac eros fermentum cras morbi quis morbi curae;. Montes congue convallis dui. Posuere mus risus amet Fames. Quis dictum donec natoque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(255,111,5,1);">Contact Form</span></p><p style="margin:30px 0px 5px 0px;"><form /></p><br /></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(255,111,5,1);">Contact Info</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Posuere aptent sodales aptent turpis hac eros fermentum cras morbi quis morbi curae.Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent.</span></p><p style="margin:20px 0px 5px 0px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1.067em;color:rgba(102,102,102,1);">Schönhauser Allee 167c</span></p><p><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1.067em;color:rgba(102,102,102,1);">10435 Berlin,Germany</span></p><p style="margin:20px 0px 5px 0px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1.067em;color:rgba(102,102,102,1);">Phone :- +1 256 234 2525</span></p><p><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1.067em;color:rgba(102,102,102,1);">Email :- demo@gmail.com</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Properties</page_title>
+      <alias>properties</alias>
+      <page_header_id>Properties</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_properties_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">High Rise Properties</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Fames hac faucibus proin hymenaeos, erat netus dolor varius magnis duis magna hymenaeos Scelerisque accumsan ornare etiam sollicitudin facilisis hymenaeos vestibulum ante</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Parturient class augue ut accumsan aliquam mattis tortor. Montes tincidunt proin fringilla nullam rhoncus augue sollicitudin fames aptent senectus magna cras duis lobortis sociis, turpis et mus bibendum parturient hymenaeos senectus porta nam nisi sociis aliquet hac rhoncus. Arcu erat. Aptent phasellus ante condimentum sem ornare. Facilisis cubilia hymenaeos non. Vulputate dictum elementum est.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_properties_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:399px;max-width:600px;" src="<?php echo $template_path; ?>/images/120.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(255,255,255,1);">Luxurious Villas</span></p><p style="margin:10px 0px 5px 0px;line-height:24px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.2em;color:rgba(255,111,5,1);">Aptent phasellus ante condimentum sem ornare. Facilisis cubilia hymenaeos non. Vulputate dictum elementum est. Montes tincidunt proisollicit aptentenectus magna cras duis lobortis</span></p><p style="margin:30px 0px 0px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.2em;color:rgba(179,179,179,1);">Best Villas At The Prime Location Of The City</span></p><p style="margin:20px 0px 0px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.2em;color:rgba(179,179,179,1);">Fully Furnished Rooms And Halls</span></p><p style="margin:20px 0px 0px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.2em;color:rgba(179,179,179,1);">Peacefull Atmosphere</span></p><p style="margin:20px 0px 0px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.2em;color:rgba(179,179,179,1);">Indoor Swimming Pool</span></p><p style="margin:20px 0px 0px 0px;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.2em;color:rgba(179,179,179,1);">Garden Arches</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_properties_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Other Properties</span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:24px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Sagittis orci quisque taciti in leo torquent Netus nisl quam. Semper. Nibh facilisi parturient semper duis ipsum velit eleifend ultricies laoreet est facilisi vivamus felis diam fermentum at litora dolor. Quisque odio lorem.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/121.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Trenance Cottage</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">5 BedRoom | 5 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Lacinia vestibulum consequat nulla pede aen ean sum lobortis nunc blandit etiam fames. Nonummy netus hac Id odio ipsum aptent vehicula eleifend.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/122.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Palm Beach</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">4 BedRoom | 5 Bathroom | 1 Garage</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Elementum magna bibendum et ligula laoreet nostra leo orci faucibus dictumst proin. Nam aptent luctus rhoncus Platea. Pellentesque at tristique torquent.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/123.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Williams Villa</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">7 BedRoom | 8 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Libero magnis penatibus parturient condiment ulibero feugiat. Bibendum proin id incut. Accum san primis odio. Ante orci primis nonum my atoque commodo.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/124.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Colonial Cottage</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">7 BedRoom | 8 Bathroom | 2 Garages</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Risus Quisque Commodo faucibus augue netus facilisi molestie. Condimentum ullamcorper convallis ligula. Erat enim luctus morbi maecenas ornaresd.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column25">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/125.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Victorian Apartment</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">8 Storeys |&nbsp;&nbsp;3 BedRoom | 2 Bathroom</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Tincidunt vestibulum nunc porttitor sapienacc umsan conubia eleifend. Nibh eu nibh nuncnam adipiscing Hac parturient convallis a nisl dolor hymenaeos pulvinar.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_properties_html_column26">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:255px;max-width:350px;" src="<?php echo $template_path; ?>/images/126.jpg" /></span></span><span style="font-family:'Titillium Web','Arial';font-size:1.467em;color:rgba(53,53,53,1);">Downtown Apartment</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-weight:300;font-size:1.067em;color:rgba(255,111,5,1);">4 Storey | 2 BedRoom | 1 Bathroom</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Lacinia vestibulum consequat nulla pede aenean ipsum lobortis nunc blandit etiam fames. Nonummy netus hac Id odio ipsum aptent vehicula eleifend.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page5</meta_ID>
+      <page_title>Agents</page_title>
+      <alias>agents</alias>
+      <page_header_id>Agents</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_agents_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Make Sure Your Dreams Are In Trusted Hands.</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Quam malesuada commodo justo Rutrum, urna metus turpis augue per cras magna pellentesque. Dictumst sociosqu.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1.067em;color:rgba(102,102,102,1);">Magna sollicitudin dapibus volutpat faucibus odio proin tincidunt justo justo quam vitae blandit hac vivamus, neque per accumsan. Aenean senectus. Facilisi donec consectetuer platea. Sociosqu. Egestas augue Conubia sapien fringilla gravida neque augue ipsum Ante condimentum pulvinar dignissim egestas ornare nostra tempus hymenaeos lacus quisque. Aptent semper malesuada vel. Litora dictum duis dictumst quisque elementum varius Risus penatibus sem eleifend. Cubilia ligula tortor. Massa posuere blandit ultrices ultrices curabitur nostra gravida integer diam metus. A Fringilla. Mus phasellus pretium consequat. Magna urna taciti magna euismod, facilisis urna.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_agents_html_row1 row" >
+<div class="post_column col-xl-9 col-lg-9 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Antony Iglesias</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Commercial Property Agents</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent. Sed vivamus lectus posuere vulputate iaculis adipiscing nostra proin magna sodales enim ullamcorper etiam purus turpis. Turpis adipiscing ut tristique mus cubilia porttitor, interdum magnis urna hymenaeos.</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Phone :- +1 256 598 2564</span></p><p style="line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Email :- Antony@modernestate.com</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/127.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_agents_html_row2 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/128.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-9 col-lg-9 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Rust Cohle</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Industrial Property Agents</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent. Sed vivamus lectus posuere vulputate iaculis adipiscing nostra proin magna sodales enim ullamcorper etiam purus turpis. Turpis adipiscing ut tristique mus cubilia porttitor, interdum magnis urna hymenaeos.</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Phone :- +1 256 789 5869</span></p><p style="margin:5px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Email :- Rust@modernestate.com</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_agents_html_row3 row" >
+<div class="post_column col-xl-9 col-lg-9 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column30">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Tilvar Claudiu</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Residential Property Agents</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent. Sed vivamus lectus posuere vulputate iaculis adipiscing nostra proin magna sodales enim ullamcorper etiam purus turpis. Turpis adipiscing ut tristique mus cubilia porttitor, interdum magnis urna hymenaeos.</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Phone :- +1 256 789 6985</span></p><p style="margin:5px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Email :- Tilvar@modernestate.com</span></p><br /></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column31">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/129.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_agents_html_row4 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column40">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:250px;max-width:250px;" src="<?php echo $template_path; ?>/images/130.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-9 col-lg-9 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_agents_html_column41">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-size:2.4em;color:rgba(53,53,53,1);">Markus Doe</span></p><p style="margin:10px 0px 5px 0px;"><span style="font-family:'Titillium Web','Arial';font-style:italic;font-size:1.333em;color:rgba(255,111,5,1);">Villas &amp; Cottage Property Agent</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:300;font-size:1em;color:rgba(102,102,102,1);">Dictum vel litora hac parturient condimentum torquent, imperdiet est lacus orci elit praesent. Sed vivamus lectus posuere vulputate iaculis adipiscing nostra proin magna sodales enim ullamcorper etiam purus turpis. Turpis adipiscing ut tristique mus cubilia porttitor, interdum magnis urna hymenaeos.</span></p><p style="margin:20px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Phone :- +1 256 789 5498</span></p><p style="margin:5px 0px 5px 0px;line-height:22px;"><span style="font-family:'Roboto','Arial';font-weight:500;font-size:1em;color:rgba(102,102,102,1);">Email :- Markus@modernestate.com</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="abc0">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 0px 10px;">Sample Content I</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>properties</widget_page>
+          <widget_page>agents</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc1">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 0px 10px;">Sample Content II</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>properties</widget_page>
+          <widget_page>agents</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc2">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 0px 10px;">Sample Content III</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>properties</widget_page>
+          <widget_page>agents</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc3">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 0px 10px;">Sample Content IV</p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>properties</widget_page>
+          <widget_page>agents</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape01">
+        <block name="headershape01" tt_blockID="header_cell00" title="headershape001">
+          <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 8px 0px;line-height:20px;"><span style="font-family:'Open Sans','Open Sans','Arial';font-size:1.067em;color:rgba(53,53,53,1);">Call Us :- +1 256 234 2525</span></p><p style="margin:8px 0px 8px 0px;line-height:20px;"><span style="font-family:'Open Sans','Open Sans','Arial';font-size:1.067em;color:rgba(53,53,53,1);">Email :- Demo@moderestate.com</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>properties</widget_page>
+            <widget_page>agents</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

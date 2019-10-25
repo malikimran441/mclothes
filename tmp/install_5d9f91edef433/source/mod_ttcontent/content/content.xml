@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About</menu_item_title>
+      <menu_item_path>about</menu_item_path>
+      <menu_item_id>About</menu_item_id>
+      <menu_item_articlename>About</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Menus</menu_item_title>
+      <menu_item_path>menus</menu_item_path>
+      <menu_item_id>Menus</menu_item_id>
+      <menu_item_articlename>Menus</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>menus</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>0</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:30px;"><span style="font-family:'Courgette','Arial';font-size:3.429em;color:rgba(139,43,17,1);">About Us </span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:30px;"><span style="font-family:'Courgette','Arial';font-size:2.286em;color:rgba(60,60,59,1);">Godfather Restaurant</span></p><p style="margin:40px 0px 0px 0px;text-align:Center;line-height:25px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Prat vestibu molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce susit varii. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus musulla dui. Fusce feugiat mesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique oi ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip . Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </span></p><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:22px;"><span><a href="<?php echo get_url('#');?>" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;text-align:Center;line-height:20.88px;"><span style="font-family:'Courgette';font-size:3.429em;color:rgba(255,255,255,1);">Special Recipes</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Inceptos proin placerat senectus id inceptos cras habitasse blandit condimentum cum netus pellentesque turpis torquent diam augue felis, leo justo placerat penatibus euismod.Mus purus posuere tristique ridiculus pharetra placerat dictum. Diam pulvinar consequat condimentum tempor phasellus gravida tellus ullamcorper justo blandit semper.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span style="text-align:Center;"><img class="ttr_fill" style="height:200px;max-width:250px;" src="images/15.jpg" /></span></span><span style="font-family:'Amaranth';font-size:1.857em;color:rgba(255,255,255,1);">Shrimp Divolo</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(179,179,179,1);">The best fra diavolo sauces are made at home, as the person cooking can how&nbsp;&nbsp;to make the dish.Nisi dis nulla urna tris tique suspendisse est convallis consequat dui na toque cons equat mi sit posuere.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:200px;max-width:250px;" src="images/16.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(255,255,255,1);">Meatballs</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(179,179,179,1);">In a medium bowl, mix the ground beef, bread, onions, parsley, cheese, and garlic. Mus purus posuere tris tique ridic ulus pha retra placerat dict um. Diam pulv inar conse quat condi mentum posuere.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:200px;max-width:250px;" src="images/17.jpg" /></span></span><span style="font-family:'Amaranth';font-size:1.857em;color:rgba(255,255,255,1);">Chicago Breef</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(179,179,179,1);">Combine the salt, pepper, basil, onion salt, water, parsley, garlic powder, bay leaf and salad dressing mix. Mollis ped Facilisi taciti montes nunc. hendit cons ectetuer aliquet amet mollispede.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:200px;max-width:250px;" src="images/18.jpg" /></span></span><span style="font-family:'Amaranth';font-size:1.857em;color:rgba(255,255,255,1);">Seefood Breef</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(179,179,179,1);">Combine the salt, pepper, basil, onion salt, water, parsley, garlic powder, bay leaf and salad dressing mix. Mollis ped Facilisi taciti montes nunc. hendit cons ectetuer aliquet amet mollispede.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:3.429em;color:rgba(139,43,17,1);">Our Services</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes Lorem lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem Lorem lectorum. Mirum est notare quam littera gothica.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/19.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,60,1);">Breakfast</span></p><p style="margin:10px 5px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Inceptos proin placerat senectus id inceptos cras habita blandit conment umcum pellents tu pistorquent dia augue felis, leo placer penatibus euisod us purus posu ere.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/20.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">Lunch</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">pharetraTristique adipiscing quam elit. Mae cenas scelerisque. Purus phasellus platea aen ean varius vivamus, urna nisi platea curae; bib endum Nam.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/21.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,61,1);">Dinner</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Gravida mauris auctor felis neque mol stie habitant, sociosqu etiam en aptent praesent nulla lobo rtis sem urna orci lob ortis leo nisi nunc hac nul apte.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 25px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/22.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,61,1);">Other</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Gravida mauris auctor felis neque mol stie habitant, sociosqu etiam en aptent praesent nulla lobo rtis sem urna orci lob ortis leo nisi nunc pellentesque.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:3.429em;color:rgba(255,255,255,1);">Customer Review</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:60px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:2em;color:rgba(255,255,255,1);">" </span><span style="font-family:'Droid Sans','Arial';color:rgba(255,255,255,1);">Torquent eleifend placerat montes duis ultricies ante dictum a nam netus natoque placerat etiam justo fringilla Curae; facilisis elementum conubia hymenaeos leo potenti. Praesent libero class ornare dictumst dignissim non tempus fusce iaculis dictum per blandit neque risus, suscipit ipsum pellentesque.</span><span style="font-family:'Droid Sans','Arial';font-size:1.571em;color:rgba(255,255,255,1);"> "</span></p><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Droid Sans';font-size:1.571em;color:rgba(255,255,255,1);">John Doe</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Droid Sans','Droid Sans';font-size:3.286em;color:rgba(139,43,17,1);">News &amp; Events</span></p><p style="margin:15px 0px 5px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Droid Sans';color:rgba(105,105,105,1);">Penatibus ac morbi lacinia cubilia. Magnis. Fusce condimentum montes faucibus. Nam cubilia malesuada quis, magna vulputate proin commodo rutrum convallis elementum neque risus maecenas eros tincidunt metus malesuada.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column41">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 20px 0px 0px;"><span><img class="ttr_fill" style="height:245px;max-width:269px;" src="images/23.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.714em;color:rgba(139,43,17,1);">Quod maxime placeat </span></p><p style="margin:20px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Inceptos proin placerat senectus id inceptos cras habita blandit conment umcum pellents tu pistorquent dia augue felis, leo placer pen a tibus euisod us purus posu ere. Feem por cum soluta nobis eleifend option congue nihil imperdiet domi.</span></p><p style="margin:20px 5px 5px 5px;line-height:22px;"><span><a href="<?php echo get_url('#');?>" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column42">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 20px 0px 0px;"><span><img class="ttr_fill" style="height:245px;max-width:269px;" src="images/24.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.714em;color:rgba(139,43,17,1);">Dest etiam prower</span></p><p style="margin:20px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Inceptos proin placerat senectus id inceptos cras habita blandit conment umcum pellents tu pistorquent dia augue felis, leo placer pen a tibus euisod us purus posu ere. Feem por cum soluta nobis eleifend option congue nihil imperdiet domi.</span></p><p style="margin:20px 5px 5px 5px;line-height:22px;"><span><a href="<?php echo get_url('#');?>" target="_self" class="btn btn-md btn-default">Read More</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>Menus</page_title>
+      <alias>menus</alias>
+      <page_header_id>Menus</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_menus_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:3.429em;color:rgba(139,43,17,1);">Breakfasts</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/26.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Fusce Suscipit Varius</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla duiusce feugiat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/27.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Cras Eleifend Innibhs</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Sius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem utenim eaertrsa vaesar. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/28.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Ullamcorper Viverra</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';"> </span><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Integer rutrum ante eu lacus. Lorem ipsum dolor sit amet, consec tetuer adipiscing . Praesent vestibulu lestieelit.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/29.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Aerroribus Constituam</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';"> </span><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Prompta iuvaret ut vis, ullum aliquip et eum, id elitr dicunt suavitate eam. Laoreet ponderum eu sed.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_menus_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:3.429em;color:rgba(255,255,255,1);">Lunch &amp; Dinner</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(255,255,255,1);">Nullam dignissim convallis est uisque aliquam docfaucib unnc iaculis suscipit duiam sitamet.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/30.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Mauris Fermentum</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Monsequuntur magni dolores eonqui ratione fertyasa voluptate msequi nesciunt, neque porro quis quam. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/31.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Nonummy Hendreri </span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Vertyu erauas aitaesa ertyasneo eniptaiades. Devolernatur aut oditaut. onsequuntur magni dolores.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/32.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Suspend Licitudin </span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Magnieolores onqui katione fertyasa voluptate msequis nesciunt, neque porro quisquam dolore .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/33.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(255,255,255,1);">Nnusquam antiopam</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Magnieolores onqui katione fertyasa voluptate msequis nesciunt, neque porro quisquam dolore .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_menus_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:3.429em;">Desserts</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Maecenas ornare tortor.Nullam dignissim convallis est.Quisque aliquam. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/34.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Vestibulum Molestie</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Vsanamet, consect amodi tempora incidunt ut labore et dognam aliquam, quaerat voluptatem. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/35.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Etiam Cursusleo</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Numquam eius modi tempora incidunt, ut labore et dolo re magnam&nbsp;&nbsp;miuase jrease kuytras maser.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/36.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Ultricies Pharetra</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">Felerereta sitamet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_menus_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:225px;max-width:300px;" src="images/37.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.571em;color:rgba(60,60,59,1);">Epicuri Quaerend</span></p><p style="margin:10px 5px 5px 5px;text-align:Center;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(105,105,105,1);">admodum his, elaboraret scribentur eloque ntiam usu te, id delectus ullamcorper comprehensam pro.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_header_id>Contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(139,43,17,1);">Contact Form</span></p><p style="margin:30px 5px 5px 5px;"><form /></p><br /></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(139,43,17,1);">Contact Info</span></p><p style="margin:30px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';color:rgba(60,60,59,1);">Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. </span></p><p style="margin:30px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:1.143em;color:rgba(60,60,59,1);">7678 Silent Passage, </span></p><p style="margin:0px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:1.143em;color:rgba(60,60,59,1);">Pickelville, USA.</span></p><p style="margin:30px 5px 5px 0px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:1.143em;color:rgba(60,60,59,1);"> Telephone: +1 800 603 6035</span></p><p style="margin:0px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:1.143em;color:rgba(60,60,59,1);">FAX: +1 800 889 9898</span></p><p style="margin:0px 5px 5px 5px;line-height:22px;"><span style="font-family:'Droid Sans','Arial';font-size:1.143em;color:rgba(60,60,59,1);">E-mail: mail@demolink.org</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>About</page_title>
+      <alias>about</alias>
+      <page_header_id>About</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about_html_row0 row" >
+<div class="post_column col-xl-7 col-lg-7 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;"><span style="font-family:'Courgette','Arial';font-size:2.571em;color:rgba(139,43,17,1);">Our History</span></p><p style="margin:30px 5px 5px 0px;"><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">2010</span></p><p style="margin:10px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia. </span></p><p style="margin:20px 5px 5px 0px;"><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">2012</span></p><p style="margin:10px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </span></p><p style="margin:20px 5px 5px 0px;"><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">2014</span></p><p style="margin:10px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Aliquam et nulla eu nisl posuere vulputate. Pellentesque rutrum purus quis nunc fringilla, nec scelerisque turpis scelerisque. Cras quis mauris rhoncus, viverra ante at, accumsan felis. Duis interdum elit nisl, pellent.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;"><span style="font-family:'Courgette','Arial';font-size:2.571em;color:rgba(139,43,17,1);">Our Services</span></p><p style="margin:30px 5px 5px 0px;"><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">Convallis tempus risus eu suscipit </span></p><p style="margin:10px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Pellentesque rutrum purus quis nunc fringilla, nec scelerisque turpis scelerisque. Cras quis mauris rhoncus, viverra ante at.</span></p><ul style="list-style-type:disc;"><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Morbi nunc odio gravida.</span></p></li><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">aliquet volutpat mauris. Vestibulum ante ipsum.</span></p></li><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Sed lacus lorem, scelerisque sed ullamcorper non.</span></p></li><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Pellentesque rutrum purus quis nunc fringilla</span></p></li><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Aliquam et nulla eu nisl posuere vulputate. </span></p></li><li><p style="line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Pellentesque rutrum purus quis nunc fringilla.</span></p></li><li><p style="margin:5px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Cras quis mauris rhoncus, viverra ante at, accumsan felis.</span></p></li><li><p style="margin:5px 5px 5px 0px;line-height:25px;"><span style="font-family:'Roboto','Arial';color:rgba(105,105,105,1);">Magni dolores eosequi ratione voluptate msequi nesciu</span></p><p style="margin:5px 5px 5px 0px;line-height:25px;"><br style="font-family:'Roboto','Arial';color:rgba(60,60,59,1);" /></p></li></ul></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:2.571em;color:rgba(255,255,255,1);">Our Opportunities</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/38.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(255,255,255,1);">Morbi tincidunt nibh ac.</span></p><p style="margin:20px 5px 5px 0px;text-align:Center;line-height:25px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Eode ise rationeuptate ui nesciuarase dolomas felerese eta.Nasine voluptatemsequi nesciunt, orert bteasa. Beciegast sereriti vitaesaert asety .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/39.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(255,255,255,1);">Brtasne voluptatemsequi.</span></p><p style="margin:20px 5px 5px 0px;text-align:Center;line-height:25px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 5px 5px 0px;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:120px;max-width:120px;" src="images/40.png" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(255,255,255,1);">corporis suscipit laborio.</span></p><p style="margin:20px 5px 5px 0px;text-align:Center;line-height:25px;"><span style="font-family:'Droid Sans','Arial';color:rgba(225,225,225,1);">Beciegast sereriti vitaesaert asety kertya aserde nerafae kertyura uestyas firaser eanemose faserani kertasferas naystas cerosas seyteasas .</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-family:'Courgette','Arial';font-size:2.571em;color:rgba(139,43,17,1);">Meet The Team</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:332px;max-width:254px;" src="images/41.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">Victor Pitcher</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:332px;max-width:254px;" src="images/42.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">David Austin </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:332px;max-width:254px;" src="images/43.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">Monica Reyes</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_fill" style="height:332px;max-width:254px;" src="images/44.jpg" /></span></span><span style="font-family:'Amaranth','Arial';font-size:1.857em;color:rgba(60,60,59,1);">Natalie Barnes </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="abc0">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><br style="text-align:Center;" /></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>menus</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>about</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes />
+    <slideshowshapes />
+    <menushapes />
+    <footershapes>
+      <footer name="footershape1">
+        <block name="footershape1" tt_blockID="footer_cell00" title="footershape01">
+          <content><![CDATA[<div class="html_content"><p><a href="<?php echo get_url('Home');?>" class="tt_link" target="_self"><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">H</span></a><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">OME&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="<?php echo get_url('About');?>" class="tt_link" target="_self"><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">ABOUT </span></a><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);"> |&nbsp;&nbsp;</span><a href="<?php echo get_url('Menus');?>" class="tt_link" target="_self"><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">MENU </span></a><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="<?php echo get_url('Contact');?>" class="tt_link" target="_self"><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);">CONTACT </span></a><span style="font-family:'Droid Sans','Arial';font-size:1.071em;color:rgba(255,255,255,1);"> | BLOG</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>menus</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>about</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </footer>
+    </footershapes>
+  </Shapes>
+</sitecontent>

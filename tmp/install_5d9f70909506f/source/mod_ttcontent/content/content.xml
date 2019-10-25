@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_id>About Us</menu_item_id>
+      <menu_item_articlename>About Us</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Service</menu_item_title>
+      <menu_item_path>service</menu_item_path>
+      <menu_item_id>new-page2</menu_item_id>
+      <menu_item_articlename>Service</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>new-page</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>0</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:1.067em;">Our Popular Service</span></h2></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/17.jpg" /></span></span><span style="font-weight:500;font-size:0.6em;">Shaves</span></h2><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/18.jpg" /></span></span><span style="font-weight:500;font-size:0.6em;">Hair Cut</span></h2><p style="margin:10px 0px 0px 8px;text-align:Center;line-height:27.88px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignim convallis est.Quisque aliquam. Donec faucibus</span><span style="color:rgba(105,105,105,1);">.</span></p><p style="margin:10px 0px 0px 8px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:22px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/19.jpg" /></span></span><span style="font-weight:500;font-size:0.6em;">Face Mask</span></h2><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/20.jpg" /></span></span><span style="font-weight:500;font-size:0.6em;">Hair Trimming</span></h2><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:800px;" src="<?php echo $template_path; ?>/images/21.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;line-height:20.88px;"><span style="font-weight:600;font-size:1.067em;color:rgba(255,255,255,1);">Traditional Haircuts</span></h2><p style="margin:10px 0px 0px 0px;line-height:27.88px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="margin:10px 0px 0px 0px;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-lg btn-success">See More</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-weight:600;font-size:1.067em;">Super Hair Style</span></h2></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/22.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/23.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/24.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/25.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column25">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/26.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column26">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:500px;" src="<?php echo $template_path; ?>/images/27.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-weight:600;font-size:1.067em;color:rgba(255,255,255,1);">Make an Appointment</span></h2><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span style="color:rgba(225,225,225,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula</span><span style="color:rgba(225,225,225,1);">.</span></p><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book an Appointment</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:534px;max-width:800px;" src="<?php echo $template_path; ?>/images/31.jpg" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;line-height:22px;"><span style="font-weight:600;font-size:1.067em;">Welcome to Our Hair Style Studio</span></h2><p style="margin:10px 0px 0px 0px;line-height:27.6px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span><span style="color:rgba(105,105,105,1);"> </span></p><p style="line-height:27.6px;"><span style="color:rgba(105,105,105,1);">Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="margin:10px 0px 5px 0px;line-height:27.6px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:1.067em;">Stylist Team</span></h2></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:300px;" src="<?php echo $template_path; ?>/images/32.jpg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.143em;">Mark Norwich</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:300px;" src="<?php echo $template_path; ?>/images/33.jpg" /></span></span><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.143em;">Johnny Jackman</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:300px;" src="<?php echo $template_path; ?>/images/34.jpg" /></span></span><span style="font-weight:600;font-size:1.143em;">John Doe</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:300px;" src="<?php echo $template_path; ?>/images/35.jpg" /></span></span></p><p style="text-align:Center;"><span style="font-family:'Poppins','Arial';font-weight:600;font-size:1.143em;">Janet Cooper</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:0px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:1.067em;">Our Customer</span></h2></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-2 col-lg-2 col-md-4 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span style="line-height:22px;"><img class="ttr_uniform" style="max-height:91px;max-width:115px;" src="<?php echo $template_path; ?>/images/36.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class="post_column col-xl-2 col-lg-2 col-md-4 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span style="line-height:22px;"><img class="ttr_uniform" style="max-height:97px;max-width:105px;" src="<?php echo $template_path; ?>/images/37.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-2 col-lg-2 col-md-4 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:103px;max-width:103px;" src="<?php echo $template_path; ?>/images/38.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-2 col-lg-2 col-md-4 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:94px;max-width:122px;" src="<?php echo $template_path; ?>/images/39.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-2 col-lg-2 col-md-4 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column25">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span style="line-height:22px;"><img class="ttr_uniform" style="max-height:100px;max-width:100px;" src="<?php echo $template_path; ?>/images/40.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class="post_column col-xl-2 col-lg-2 col-md-3 col-sm-6 col-xs-6 col-6">
+<div class="ttr_about-us_html_column26">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:89px;max-width:133px;" src="<?php echo $template_path; ?>/images/41.png" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class=" visible-md-block d-md-block" style="clear: both;"></div>
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column27">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Make an Appointment</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;"><span style="font-weight:600;font-size:1.714em;">Address:</span></p><p style="margin:20px 0px 5px 0px;line-height:27.6px;"><span style="font-size:1em;color:rgba(78,78,78,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 0px;line-height:27.6px;"><span style="font-size:1em;color:rgba(78,78,78,1);">New York City,</span></p><p style="margin:2px 0px 0px 0px;line-height:27.6px;"><span style="font-size:1em;color:rgba(78,78,78,1);">NY 100005, USA</span></p><p style="margin:2px 0px 0px 0px;line-height:27.6px;"><span style="font-weight:700;font-size:1em;color:rgba(78,78,78,1);">PHONES:</span><span style="font-size:1em;color:rgba(78,78,78,1);"> (800) 123-4567-890; (800) 123-0046-7890</span></p><p style="margin:2px 0px 0px 0px;line-height:27.6px;"><span style="font-weight:700;font-size:1em;color:rgba(78,78,78,1);">WE ARE OPEN:</span><span style="font-size:1em;color:rgba(78,78,78,1);"> Mon-Fri: 10 am - 8 pm</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span style="font-weight:600;font-size:1.714em;">Let's Get in Touch </span></p><p><form /></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Service</page_title>
+      <alias>new-page</alias>
+      <page_header_id>new-page</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_new-page_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:2.286em;">Our Popular Service</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/42.jpg" /></span></span><span style="font-weight:500;font-size:1.286em;">Shaves</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/43.jpg" /></span></span><span style="font-weight:500;font-size:1.286em;">Hair Cut</span></p><p style="margin:10px 0px 0px 8px;text-align:Center;line-height:27.88px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignim convallis est.Quisque aliquam. Donec faucibus</span><span style="color:rgba(105,105,105,1);">.</span></p><p style="margin:10px 0px 0px 8px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:22px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/44.jpg" /></span></span><span style="font-weight:500;font-size:1.286em;">Face Mask</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:350px;max-width:450px;" src="<?php echo $template_path; ?>/images/45.jpg" /></span></span><span style="font-weight:500;font-size:1.286em;">Hair Trimming</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:27.88px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-sm btn-primary">Book Now</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_new-page_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:22px;"><span style="font-weight:600;font-size:2.286em;color:rgba(255,255,255,1);">Make an Appointment</span></p><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span style="color:rgba(225,225,225,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula</span><span style="color:rgba(225,225,225,1);">.</span></p><p style="margin:20px 0px 0px 0px;text-align:Center;line-height:27.6px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book an Appointment</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers />
+  <Shapes>
+    <headershapes />
+    <slideshowshapes>
+      <slideshow name="slideshowshape01">
+        <block name="slideshowshape01" tt_blockID="slideshow_cell000" title="slideshowshape001">
+          <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 5px 0px;"><span style="font-weight:700;font-size:3em;color:rgba(255,255,255,1);">HAIRCUTS &amp; STYLING</span></p><p style="line-height:31.6px;"><span style="font-size:1.143em;color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:20px 0px 5px 0px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book Now</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape11">
+        <block name="slideshowshape11" tt_blockID="slideshow_cell100" title="slideshowshape011">
+          <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 5px 0px;"><span style="font-weight:700;font-size:3em;color:rgba(255,255,255,1);">HAIRCUTS &amp; STYLING</span></p><p style="line-height:31.6px;"><span style="font-size:1.143em;color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:20px 0px 5px 0px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book Now</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape21">
+        <block name="slideshowshape21" tt_blockID="slideshow_cell200" title="slideshowshape021">
+          <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 5px 0px;"><span style="font-weight:700;font-size:3em;color:rgba(255,255,255,1);">HAIRCUTS &amp; STYLING</span></p><p style="line-height:31.6px;"><span style="font-size:1.143em;color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus.</span></p><p style="margin:20px 0px 5px 0px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">Book Now</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+    </slideshowshapes>
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

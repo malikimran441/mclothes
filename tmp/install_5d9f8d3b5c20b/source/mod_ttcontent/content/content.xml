@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_id>home</menu_item_id>
+      <menu_item_articlename>Home</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_id>About Us</menu_item_id>
+      <menu_item_articlename>About Us</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Rooms</menu_item_title>
+      <menu_item_path>rooms</menu_item_path>
+      <menu_item_id>rooms</menu_item_id>
+      <menu_item_articlename>Rooms</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>rooms</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_id>Contact</menu_item_id>
+      <menu_item_articlename>Contact</menu_item_articlename>
+      <menu_item_articletype>article</menu_item_articletype>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_id>Blog</menu_item_id>
+      <menu_item_articlename>Blog</menu_item_articlename>
+      <menu_item_articletype>category</menu_item_articletype>
+      <menu_item_slug>blog</menu_item_slug>
+      <menu_item_status>0</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;line-height:20.88px;"><span style="font-weight:700;font-size:1.2em;color:rgba(198,42,42,1);">3M</span><span style="font-weight:600;font-size:1.2em;">HOTEL</span><span style="font-size:1.2em;"> </span><span style="font-weight:600;font-size:1.2em;">SINCE 1925</span></h2><p style="margin:20px 0px 0px 0px;line-height:26.48px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. </span></p><p style="margin:20px 0px 0px 0px;line-height:26.48px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:399px;max-width:700px;" src="<?php echo $template_path; ?>/images/Image-1.jpg" alt="hotel room" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:1.2em;">OUR FAVORITE ROOMS</span></h2><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-2.jpg" alt="image" /></span></span><span style="font-weight:600;font-size:1.429em;">Family Room</span></p><p style="line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-3.jpg" alt="King Room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">King Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK ROOM</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0px 0px 0px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-41.jpg" alt="room" /></span></span></p><p style="margin:0px 0px 0px 0px;"><span style="font-weight:600;font-size:1.429em;">Single Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column14">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-6.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Deluxe Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column15">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-7.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Standard Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('home');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column16">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-8.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Superior Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:2.571em;color:rgba(255,255,255,1);">OUR AWESOME SERVICES</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;" src="<?php echo $template_path; ?>/images/Icon-4.png" alt="icon" /></span></span><span style="font-size:0.733em;color:rgba(255,255,255,1);">Restaurant</span></h2><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;" src="<?php echo $template_path; ?>/images/Icon-5.png" alt="image" /></span></span><span style="font-size:1.571em;color:rgba(255,255,255,1);">Beauty &amp; Health</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:70px;" src="<?php echo $template_path; ?>/images/Icon-6.png" alt="image" /></span></span><span style="font-size:1.571em;color:rgba(255,255,255,1);">Conference Room</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:64px;max-width:70px;" src="<?php echo $template_path; ?>/images/Icon-7.png" alt="pool" /></span></span><span style="font-size:1.571em;color:rgba(255,255,255,1);">Swimming Pool</span></p><p style="margin:10px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 30px 0px 0px;"><span style="line-height:20.88px;"><img class="ttr_uniform" style="max-height:200px;max-width:200px;" src="<?php echo $template_path; ?>/images/Image-51.jpg" alt="image" /></span></span><span style="font-weight:600;font-size:1.429em;">A little about us</span></p><p style="margin:20px 0px 0px 8px;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 30px 0px 0px;"><span><img class="ttr_uniform" style="max-height:200px;max-width:200px;" src="<?php echo $template_path; ?>/images/Image-9.jpg" alt="room" /></span></span><span style="font-weight:600;font-size:1.429em;">Travel plan mag</span></p><p style="margin:20px 0px 0px 0px;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:20.88px;"><span style="font-weight:700;font-size:2.571em;color:rgba(198,42,42,1);">3M</span><span style="font-weight:600;font-size:2.571em;">HOTEL</span><span style="font-size:2.571em;"> </span><span style="font-weight:600;font-size:2.571em;">SINCE 1925</span></p><p style="margin:20px 0px 0px 0px;line-height:26.48px;"><span style="font-weight:600;font-size:1.286em;color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.</span></p><p style="margin:20px 0px 0px 0px;line-height:26.48px;"><span style="color:rgba(78,78,78,1);">Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. </span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:399px;max-width:700px;" src="<?php echo $template_path; ?>/images/Image-11.jpg" alt="hotel" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-weight:600;font-size:2.571em;">80</span></p><p style="text-align:Center;"><span style="font-weight:600;font-size:2.571em;">ROOMS</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">5</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">CAFE</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">40</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">STAFFS</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">3</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:2.571em;">POOLS</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;line-height:20.88px;"><span style="font-weight:600;font-size:1.2em;">OUR SERVICES</span></h2></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column21">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-21.jpg" alt="Services" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column22">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-31.jpg" alt="Services" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column23">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-4.jpg" alt="Services" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column24">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-61.jpg" alt="Services" /></span></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column25">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor. </span></p><p style="margin:2px 0px 0px 0px;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis massa quis luctus fermentum turpis.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;"><span style="font-weight:700;font-size:1.714em;">Address:</span></p><p style="margin:20px 0px 0px 0px;line-height:24.8px;"><span style="font-size:1em;color:rgba(52,52,52,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 0px;line-height:24.8px;"><span style="font-size:1em;color:rgba(52,52,52,1);">New York City,</span></p><p style="margin:2px 0px 0px 0px;line-height:24.8px;"><span style="font-size:1em;color:rgba(52,52,52,1);">NY 100005, USA</span></p><p style="margin:2px 0px 0px 0px;line-height:24.8px;"><span style="font-weight:700;font-size:1em;color:rgba(52,52,52,1);">PHONES:</span><span style="font-size:1em;color:rgba(52,52,52,1);"> (800) 123-4567-890; (800) 123-0046-7890</span></p><p style="margin:2px 0px 0px 0px;line-height:24.8px;"><span style="font-weight:700;font-size:1em;color:rgba(52,52,52,1);">WE ARE OPEN:</span><span style="font-size:1em;color:rgba(52,52,52,1);"> Mon-Fri: 10 am - 8 pm</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-7 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 20px 0px;"><span style="font-weight:700;font-size:1.714em;">Let's Get in Touch </span></p><p style="margin:5px 0px 20px 0px;"><form /></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Rooms</page_title>
+      <alias>rooms</alias>
+      <page_header_id>rooms</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/18/2019 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_rooms_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column00">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:20.88px;"><span style="font-weight:600;font-size:2.571em;">OUR FAVORITE ROOMS</span></p><p style="margin:2px 0px 0px 0px;text-align:Center;line-height:25.08px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column01">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-22.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Family Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column02">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-32.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">King Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column03">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:0px 0px 0px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-42.jpg" alt="room" /></span></span></p><p style="margin:0px 0px 0px 0px;"><span style="font-weight:600;font-size:1.429em;">Single Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column04">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-62.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Deluxe Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column05">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-71.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Standard Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column06">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:300px;max-width:450px;" src="<?php echo $template_path; ?>/images/Image-81.jpg" alt="room" /></span></span></p><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.429em;">Superior Room</span></p><p style="margin:5px 0px 5px 0px;line-height:23.4px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est.</span></p><p style="margin:10px 0px 5px 0px;line-height:23.4px;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_rooms_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rooms_html_column10">
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-weight:700;font-size:3.429em;color:rgba(255,255,255,1);">Your First Booking</span></p><p style="text-align:Center;"><span style="font-style:italic;font-weight:700;font-size:3.429em;color:rgba(255,255,255,1);">50% Off</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;"><span><a href="<?php echo get_url('contact');?>" target="_self" class="btn btn-md btn-default">BOOK NOW</a></span></p></div>
+<div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="abc0">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:25px;max-width:151px;" src="images/Logo.png" alt="logo" /></span></span></p><br /><br /><p style="line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at tincidunt nec gravida vehicula, nisl. Praesent mattis massa quis luctus fermentum, turpis mi volutpat justo eu volutpat enim diam eget metus. Maecenas ornare tortor.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc1">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><p><span style="font-weight:600;font-size:1.286em;">LATEST NEWS</span></p><p style="margin:20px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet.</span></p><p style="line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Nullam dignissin convallis.</span></p><p style="line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Text link adipiscing elit.</span></p><p style="line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Volutpat enim diam eget metu.</span></p><p style="line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Praesent mattis massa justo.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc2">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.286em;">USEFUL LINKS</span></p><p style="margin:20px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Location</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Gallery</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Contact Us</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">About Us</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">History</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="abc3">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 5px 0px;"><span style="font-weight:600;font-size:1.286em;">ROOMS</span></p><p style="margin:20px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Standard Room</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Family Room</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">King Room</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Single Room</span></p><p style="margin:5px 0px 5px 0px;line-height:24.8px;"><span style="color:rgba(78,78,78,1);">Deluxe Room</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rooms</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes />
+    <slideshowshapes>
+      <slideshow name="slideshowshape01">
+        <block name="slideshowshape01" tt_blockID="slideshow_cell000" title="slideshowshape001">
+          <content><![CDATA[<div class="html_content"><p style="margin:20px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:3.429em;color:rgba(255,255,255,1);">Get a comfortable stay and relax your mind</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>rooms</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape11">
+        <block name="slideshowshape11" tt_blockID="slideshow_cell100" title="slideshowshape011">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center;"><span style="font-weight:600;font-size:3.429em;color:rgba(255,255,255,1);">Enjoy holidays with our world-class service</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>rooms</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape21">
+        <block name="slideshowshape21" tt_blockID="slideshow_cell200" title="slideshowshape021">
+          <content><![CDATA[<div class="html_content"><p style="margin:20px 0px 5px 0px;text-align:Center;"><span style="font-weight:600;font-size:3.429em;color:rgba(255,255,255,1);">Enjoy a comfortable luxury stay with us.</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>rooms</widget_page>
+            <widget_page>blog</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+    </slideshowshapes>
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
